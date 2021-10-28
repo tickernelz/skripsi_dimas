@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="12d48b1c-1629-4356-baf1-5cf761b347d8" name="skripsi" url="http://pazkun.xyz">
+        <fileTransfer rootFolder="/skripsi.pazkun.xyz" host="pazkun.xyz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
